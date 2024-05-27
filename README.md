@@ -2,28 +2,26 @@
 
 This project is a console-based simulation of GitHub functionalities, written in C++. It mimics basic GitHub features like user management, repository handling, and social interactions.
 
-## File Structure
-- `git.cpp`: Core implementation of the GitHub simulation.
-- `git.h`: Header file defining classes and functions.
-- `main.cpp`: Entry point of the program and user interface.
+It includes three files, you can put them in the respective directory of your compiler to run the code
+- `git.cpp`
+- `git.h`
+- `main.cpp`
 
-## Instructions
-**Setup:**
+Some instruction to follow:
 - Clone the repository and navigate to the project directory.
   ```bash
   git clone https://github.com/[your-username]/github-simulation.git
   cd github-simulation
-Running the Code:
-Compile and run the main.cpp file to start the simulation.
+- Compile and run the main.cpp file to start the simulation.
  ```bash 
 g++ main.cpp git.cpp -o github_simulation
 ./github_simulation
 ```
-User Credentials for initial login to the system:
-Username: pepsi
-Password: black
+- User Credentials for initial login to the system:
+Username: pepsi   
+Password: black   
 
-## Usage:
+**Usage**:
 Follow on-screen instructions to explore GitHub-like features.
 Use provided credentials for login.
 Note
