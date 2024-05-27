@@ -7,7 +7,7 @@ It includes three files, you can put them in the respective directory of your co
 - `git.h`
 - `main.cpp`
 
-Some instructions to follow:
+**Instructions**:
 - Clone the repository and navigate to the project directory.
   ```bash
   git clone https://github.com/[your-username]/github-simulation.git
@@ -17,7 +17,7 @@ Some instructions to follow:
 g++ main.cpp git.cpp -o github_simulation
 ./github_simulation
 ```
-- User Credentials for initial login to the system:
+- User Credentials for initial login to the system:   
 Username: pepsi   
 Password: black   
 
